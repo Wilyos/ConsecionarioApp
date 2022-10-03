@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">concesionario</string>
+    <string name="vehiculos_en_venta">Vehiculos en venta</string>
+    <string name="placa">Placa</string>
+</resources>
